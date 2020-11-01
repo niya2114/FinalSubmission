@@ -1,0 +1,39 @@
+body{
+  font-family: 'Arvo', serif;
+font-family: 'Slabo 27px', serif;
+}
+
+.form{
+  background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+  background-position: center;
+  margin: auto;
+  margin-top: 12%;
+  width: 50%;
+  height: 300px;
+  border-radius: 15px;
+}
+
+h4 {
+  color: darkblue;
+  text-align: center;
+}
+
+.fi{
+  padding-top: 15px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  color:black ;
+
+}
+
+.upload {
+  margin-top : 32px;
+}
+
+
+.list{
+  font-size: 27px;
+  color: white;
+  font-weight: inherit;
+}
